@@ -9,6 +9,7 @@ Baza posiada tabele:
 -	Studio_Deweloperskie (przechowuje nazwę studia)
 -	Użytkownik (przechowuje informacje umożliwiające zidentyfikowanie użytkownika)
 -	Wydawca (przechowuje nazwę wydawcy)
+
 Do opisu gry potrzebny jest: 
 -	tytuł, 
 -	data premiery, 
