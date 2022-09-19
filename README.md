@@ -21,4 +21,4 @@ Do opisu gry potrzebny jest:
 -	wydawca
 -	gatunek gry
 
-![db model](https://drive.google.com/file/d/1pbccOp1QblYA416EURAmhTBo3lJ1U0Wy/view?usp=sharing)
+![image](https://user-images.githubusercontent.com/110038406/191016376-0ff23f1a-e289-4e41-bdf0-4eed546c9380.png)
